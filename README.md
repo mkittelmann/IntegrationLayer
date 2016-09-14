@@ -75,5 +75,6 @@ The program requires the following software:
 ###### Development
 The newest version of Falcon (falcon_20160718) offers the option to generate the initial validation report list via the command line API of Falcon. Future versions of the Integration Layer tool can therefore offer the option to auto-generate the starting file instead of triggering its generation manually in the Falcon GUI. 
 
-
-
+###### License
+GNU GPLv3 http://www.gnu.org/licenses/agpl-3.0.txt
+In general, use what you want, shoot me a note if confused. 
