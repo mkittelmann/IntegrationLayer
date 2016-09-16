@@ -79,3 +79,6 @@ The newest version of Falcon (falcon_20160718) offers the option to generate the
 GNU GPLv3 http://www.gnu.org/licenses/agpl-3.0.txt
 
 In general, use what you want, shoot me a note if confused. 
+
+###### Overview
+![Integration Layer Workflow](img/integration_layer.png?raw=true "Integration Layer Workflow")
