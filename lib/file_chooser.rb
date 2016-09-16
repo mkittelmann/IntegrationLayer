@@ -1,4 +1,3 @@
-
 class FileChooser
 
   attr_reader :files, :choice
@@ -37,4 +36,4 @@ class FileChooser
       log_file.close
   end
 
-end #class end
+end
